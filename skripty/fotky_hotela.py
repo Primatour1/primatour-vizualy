@@ -27,7 +27,7 @@ TU = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POZ = os.path.join(TU, 'poziadavky')
 HOTOVO = os.path.join(POZ, 'hotovo')
 HOTELY = os.path.join(TU, 'hotely')
-MAX_FOTIEK = 6
+MAX_FOTIEK = 10
 MAX_SIRKA = 1600
 
 
