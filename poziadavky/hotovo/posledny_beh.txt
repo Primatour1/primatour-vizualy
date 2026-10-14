@@ -1,1 +1,7 @@
-2026-10-14_alexia-resort.txt -> {"chyba": "neočakávaná chyba: <urlopen error timed out>"} | fotiek: 0
+   stiahnuté https://www.primatour.sk/data/fulltext/nt?term=Alexia+Resort&group=hotel (334 B)
+   stiahnuté https://www.primatour.sk/dovolenka/x/x/x/86878a (89252 B)
+   stiahnuté https://i.ccdn.sk/acm/8d6dac313f4f0ea3d4106d73523cfff9.webp (89250 B)
+   stiahnuté https://i.ccdn.sk/acm/09c8cc8564fc9b6e8fafe1d6d4bddde7.webp (280630 B)
+   stiahnuté https://i.ccdn.sk/acm/34663ec2e0ee87ebedc0266719da6388.webp (82258 B)
+   stiahnuté https://i.ccdn.sk/acm/b0f0f9c4df5ea1983081f62a99d39862.webp (76084 B)
+2026-10-14_alexia-resort.txt -> {"id": 86878, "nazov": "Alexia Resort", "hviezdy": 5, "lokalita": ["Turecko", "Turecká riviéra", "Side"], "stranka": "https://www.primatour.sk/dovolenka/x/x/x/86878a", "poziadavka": "Alexia Resort", "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk", "priecinok": "hotely/86878-alexia-resort"} | fotiek: 4
