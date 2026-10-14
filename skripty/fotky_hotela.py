@@ -31,11 +31,20 @@ MAX_FOTIEK = 6
 MAX_SIRKA = 1600
 
 
-def stiahni(url, binarne=False):
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=40) as r:
-        data = r.read()
-        return data if binarne else data.decode('utf-8', 'replace')
+def stiahni(url, binarne=False, pokusy=3):
+    chyba = None
+    for i in range(pokusy):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+                print('   stiahnuté %s (%d B)' % (url[:90], len(data)))
+                return data if binarne else data.decode('utf-8', 'replace')
+        except Exception as e:
+            chyba = e
+            print('   pokus %d/%d zlyhal: %s — %s' % (i + 1, pokusy, url[:90], e))
+            time.sleep(5)
+    raise chyba
 
 
 def slug(s):
