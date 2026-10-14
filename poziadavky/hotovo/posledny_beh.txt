@@ -1,0 +1,1 @@
+2026-10-14_alexia-resort.txt -> {"chyba": "neočakávaná chyba: <urlopen error timed out>"} | fotiek: 0
