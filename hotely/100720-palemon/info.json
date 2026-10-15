@@ -1,0 +1,96 @@
+{
+ "id": 100720,
+ "nazov": "Palemon",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Side"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/100720a",
+ "poziadavka": "Palemon Resort",
+ "priecinok": "100720-palemon",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/2d627df9ba1194c1a942a42dac827858.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/29403e11920770f7e53b377d88b75c08.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d451f8d3e9b566f8f17e7039e2bf2376.webp",
+   "rozmer": [
+    1025,
+    768
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/32b544e79f65467df2c4e3503693067e.webp",
+   "rozmer": [
+    1025,
+    768
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ff1d23813387841b055f1e5854f41620.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "06.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/7f27d38e632bd22b80988fb3d15b07bc.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "07.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0f637510912e24501fbf282fcfa2414f.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "08.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c0989898fd71ce131c69d8d24828004c.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "09.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/54047d465ae15581ac01926cb87e4fc5.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "10.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/dd5f785a347792a28bf78f83b21a16a4.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
