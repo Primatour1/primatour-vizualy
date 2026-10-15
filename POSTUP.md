@@ -18,7 +18,7 @@ nezverejňuje – každý príspevok ide do GHL Social Planner ako **čakajúci 
   len krátka správa.
 
 ## Zdroje
-- Archív newslettrov CK: `G:\Môj disk\Newslettre-CK\ponuky\` (prístup cez pripojený počítač ptserver).
+- Archív newslettrov CK: `G:\Môj disk\Newslettre-CK\` (súbory priamo v tomto priečinku, žiadny podpriečinok) (prístup cez pripojený počítač ptserver).
   Súbory `YYYYMMDD_HHMM_ck_predmet.txt` s hlavičkou X-CK/X-Predmet/X-Datum/X-Ceny-EUR; `digest_YYYY-MM-DD.json`.
 - Fotky hotelov: zapísať požiadavku do `poziadavky/<datum>_<slug>.txt` (obsah: `Názov hotela | 10`),
   commit + push → GitHub Actions do ~1 min stiahne 10 fotiek z primatour.sk do `hotely/<id>-<slug>/01..10.jpg`
