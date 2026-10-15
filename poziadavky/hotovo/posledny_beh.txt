@@ -1,4 +1,4 @@
-   pokus 1/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort+Hotel+and+Spa&group=hotel — <urlopen error timed out>
-   pokus 2/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort+Hotel+and+Spa&group=hotel — <urlopen error timed out>
-   pokus 3/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort+Hotel+and+Spa&group=hotel — <urlopen error timed out>
-2026-10-15_asia-beach-resort.txt -> {"chyba": "neočakávaná chyba: <urlopen error timed out>"} | fotiek: 0
+   pokus 1/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort&group=hotel — <urlopen error timed out>
+   pokus 2/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort&group=hotel — <urlopen error timed out>
+   pokus 3/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort&group=hotel — <urlopen error timed out>
+2026-10-15_asia-beach-resort-2.txt -> {"chyba": "neočakávaná chyba: <urlopen error timed out>"} | fotiek: 0
