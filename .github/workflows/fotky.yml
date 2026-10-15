@@ -1,9 +1,8 @@
 name: Fotky hotelov z primatour.sk
 
+# Záložný spôsob (len ručné spustenie). Hlavný zdroj fotiek je server ptserver,
+# lebo primatour.sk z GitHubu často neodpovedá – pozri POSTUP.md.
 on:
-  push:
-    paths:
-      - 'poziadavky/*.txt'
   workflow_dispatch:
 
 permissions:

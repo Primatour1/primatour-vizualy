@@ -20,11 +20,19 @@ nezverejňuje – každý príspevok ide do GHL Social Planner ako **čakajúci 
 ## Zdroje
 - Archív newslettrov CK: `G:\Môj disk\Newslettre-CK\` (súbory priamo v tomto priečinku, žiadny podpriečinok) (prístup cez pripojený počítač ptserver).
   Súbory `YYYYMMDD_HHMM_ck_predmet.txt` s hlavičkou X-CK/X-Predmet/X-Datum/X-Ceny-EUR; `digest_YYYY-MM-DD.json`.
-- Fotky hotelov: zapísať požiadavku do `poziadavky/<datum>_<slug>.txt` (obsah: `Názov hotela | 10`),
-  commit + push → GitHub Actions do ~1 min stiahne 10 fotiek z primatour.sk do `hotely/<id>-<slug>/01..10.jpg`
-  a `info.json` (hviezdy, lokalita). Potom `git pull`. Fotky sú od CK cez Cesys (web Primatour).
-  Verejná adresa: `https://raw.githubusercontent.com/Primatour1/primatour-vizualy/main/<cesta>`.
-- Ak hotel na webe nie je (`poziadavky/hotovo/*.json` má `chyba`), príspevok ide len s vizuálom.
+- Fotky hotelov (sťahuje ich server ptserver, z GitHubu primatour.sk neodpovedá):
+  1. Zapíš požiadavku: lokálny súbor (napr. /mnt/user-data/outputs/poz/<YYYY-MM-DD>_<slug>.txt, obsah
+     `Názov hotela | 10`) a nahraj ho cez device_commit_files do
+     `G:\Môj disk\Newslettre-CK\fotky\poziadavky\<YYYY-MM-DD>_<slug>.txt`.
+  2. Server ho do ~2–3 min spracuje (naplánovaná úloha „Primatour - fotky hotelov“). Kontroluj
+     device_list_dir `G:\Môj disk\Newslettre-CK\fotky\hotovo` – objaví sa `<YYYY-MM-DD>_<slug>.json`
+     (pole `priecinok`, `nazov`, `hviezdy`, `lokalita`, `fotky`, prípadne `chyba`). Čakaj max. 6 min.
+  3. device_stage_files fotky z `G:\Môj disk\Newslettre-CK\fotky\<priecinok>\01.jpg …` (staged sú v
+     /mnt/user-data/uploads/…), skopíruj do repozitára `hotely/<priecinok>/`, commit + push.
+  4. Verejná adresa: `https://raw.githubusercontent.com/Primatour1/primatour-vizualy/main/hotely/<priecinok>/NN.jpg`.
+  Ak sa hotel nenašiel, server neodpovedá alebo uplynie 6 min, príspevok ide len s vizuálom a napíš to do poznámky.
+- GHL: fotky sa dajú pridať LEN pri vytvorení príspevku (create-post). Úprava (edit-post) médiá nezmení –
+  ak treba fotky doplniť, vytvor nový príspevok a starý zmaž.
 
 ## Výber fotiek (reklama musí byť pekná)
 Pozri si kontaktný hárok (`python -c` + PIL) a vyber 3:
