@@ -1,0 +1,56 @@
+{
+ "id": 40916,
+ "nazov": "Steigenberger Makadi",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Makadi"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/40916a",
+ "poziadavka": "Steigenberger Makadi",
+ "priecinok": "40916-steigenberger-makadi",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/5ac25579a42bd2031cd3e2012971ac15.webp",
+   "rozmer": [
+    1600,
+    814
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/f7fcf9f1c21ff7359d63f69dde4b380c.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/76401b7e3631cbc76f4b5f1d671cfc57.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/5c3e25f4beb3453331a073f303344993.webp",
+   "rozmer": [
+    1600,
+    795
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/9b2e1887a3d87bbe0ab053a92ded5bb9.webp",
+   "rozmer": [
+    1600,
+    872
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
