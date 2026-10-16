@@ -1,0 +1,56 @@
+{
+ "id": 25260,
+ "nazov": "Terrace Elite Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Side"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/25260a",
+ "poziadavka": "Terrace Elite Resort",
+ "priecinok": "25260-terrace-elite-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/bb7775c27897c2fe5e11122436e70072.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/227e3726be8fe32ff457bd9d3b5c0fe6.webp",
+   "rozmer": [
+    1600,
+    945
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8d8a01e38faa461b66c1c673ad62a5d8.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/b1c6f32cc38c244ff2abe029bf924ba6.webp",
+   "rozmer": [
+    1600,
+    932
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c997ea4313bc40905288e5f4ba3e187b.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
