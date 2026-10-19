@@ -1,0 +1,57 @@
+{
+ "id": 61780,
+ "nazov": "Oz Hotels Sui Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Alanya",
+  "Okurcalar"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/61780a",
+ "poziadavka": "OZ Hotels Sui Resort",
+ "priecinok": "61780-oz-hotels-sui-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3525a33ac8e4b4fa3fc963793479482b.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/9e1250cca667fd5a108b781ac93ddbca.webp",
+   "rozmer": [
+    900,
+    601
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/866481e075e55036a251eacac76ae7d5.webp",
+   "rozmer": [
+    1024,
+    729
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/68d39c85ca6ce67678c634d0c15c37c0.webp",
+   "rozmer": [
+    1024,
+    694
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/a9a9e609b74a251b49c52452ed5563ca.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
