@@ -1,0 +1,55 @@
+{
+ "id": 101712,
+ "nazov": "Rewaya Majestic Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/101712a",
+ "poziadavka": "Rewaya Majestic Resort",
+ "priecinok": "101712-rewaya-majestic-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/2340a723a615de734b11ae776d07005b.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/b6bfd06adfef83d0b21127e6d95a5a4a.webp",
+   "rozmer": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d495cfc2511602753e69d276ac53efad.webp",
+   "rozmer": [
+    1600,
+    1121
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3bd8c1cc54813ce71a587c40163a0c7f.webp",
+   "rozmer": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/93b03035743fb1739b82c748cb4eaf7a.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
