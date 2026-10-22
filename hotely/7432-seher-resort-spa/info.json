@@ -1,0 +1,57 @@
+{
+ "id": 7432,
+ "nazov": "Seher Resort & Spa",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Side",
+  "Evrenseki"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/7432a",
+ "poziadavka": "Seher Resort & Spa",
+ "priecinok": "7432-seher-resort-spa",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/9f420761482401912f33f702bcf9dfde.webp",
+   "rozmer": [
+    1600,
+    667
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3a2ea13314c6bddf40274dea592f668b.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d2585fd0fca60a59e75d2f92c1a05792.webp",
+   "rozmer": [
+    1600,
+    667
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d2f8e90b69a684414e7db56a98ed6bcf.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/b5b7a93b43c95f619f30673117a2bb00.webp",
+   "rozmer": [
+    1600,
+    1143
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
