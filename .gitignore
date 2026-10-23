@@ -1,0 +1,3 @@
+# dočasný HTML z sablony/render.py
+*.png.html
+__pycache__/
