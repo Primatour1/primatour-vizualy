@@ -1,0 +1,56 @@
+{
+ "id": 157,
+ "nazov": "Sentido Caribbean World Soma Bay",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Soma Bay"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/157a",
+ "poziadavka": "Sentido Caribbean World Soma Bay",
+ "priecinok": "157-sentido-caribbean-world-soma-bay",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4df223bc38268c0de97f9a5ed3e22e1b.webp",
+   "rozmer": [
+    1600,
+    1130
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/551534ba75d0cf40d4a4a35c7b974f24.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/7829c033f7555207b7621aaa2cd8257f.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d350993e5ff7a50d5b0a7afa12fce322.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/38152046b08a80a355f8062590ec50ba.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
