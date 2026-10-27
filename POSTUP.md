@@ -13,6 +13,11 @@ nezverejňuje – každý príspevok ide do GHL Social Planner ako **čakajúci 
 - Každý text musí obsahovať len fakty z ponuky a z hodnotení. Žiadne „dobrá kuchyňa“, „pláž pri hoteli“
   bez zdroja. Vzdialenosť pláže uviesť otvorene, ak je známa.
 - Tón: formálny, ale priateľský, poradenský. Vzory: Claude Docs „Vzory príspevkov Primatour“.
+- Podpis príspevku (od Martina, 27.10.2026): **bez adresy**, vždy web + e-mail + telefón:
+  `Primatour · www.primatour.sk · primatour@primatour.sk · +421 947 941 819` (FB aj IG; nahrádza
+  staršie „Primatour · Divadelná 1, Trnava · www.primatour.sk“ aj „Primatour · Trnava“ zo Vzorov).
+- Do requesterNote napíš Martine, aby príspevok v GHL neupravovala, len schválila – úprava zahodí fotky;
+  zmenu textu nech pošle Martinovi/automatu a príspevok sa vytvorí nanovo.
 - Prednosť majú odlety z Bratislavy (BTS) a Košíc (KSC).
 - Mimo sezóny je menej ponúk v poriadku – radšej 1 dobrý príspevok ako 3 slabé. Žiadna ponuka = žiadny príspevok,
   len krátka správa.
