@@ -1,0 +1,56 @@
+{
+ "id": 20279,
+ "nazov": "Amarina Abu Soma Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Safaga"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/20279a",
+ "poziadavka": "Amarina Abu Soma Resort",
+ "priecinok": "20279-amarina-abu-soma-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/6bcab0b21cd1134d10f020e5f7dc1b98.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4b74a5defc89101e121a06dfd3e7a27b.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4241c3144ac3bfb5b7221f6a0ff8438d.webp",
+   "rozmer": [
+    800,
+    431
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ae14923ddfe2b0d1de52acc10fcf2fd8.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0ec8fc314db26f6e72439666b3daef90.webp",
+   "rozmer": [
+    800,
+    488
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 104688,
+ "nazov": "Rewaya Luxury Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/104688a",
+ "poziadavka": "Rewaya Luxury Resort",
+ "priecinok": "104688-rewaya-luxury-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3cd008b4f540227c7542664d541851ec.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/7dbdb72500afce6c533d3850bea81fb5.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ba6af9b49f945c8117cc5e0d7a24acce.webp",
+   "rozmer": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3d9cd9103d00498b5f4584bb9ea64e93.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/6ce76d2dfb33a3389c9a1aafdab0c09f.webp",
+   "rozmer": [
+    1600,
+    1200
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

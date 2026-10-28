@@ -1,0 +1,56 @@
+{
+ "id": 524,
+ "nazov": "Siva Golden Bay Makadi",
+ "hviezdy": 4,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Makadi"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/524a",
+ "poziadavka": "Siva Golden Bay Makadi",
+ "priecinok": "524-siva-golden-bay-makadi",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/29fb3ae0865129a841569a2ab289a15d.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/651587f805136b97d3158c130d6c9ab5.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/33ae7ccb559fd632cc6e2dce96f8a31d.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/dba870533589552923aba50f74a6f7c0.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/f089913fc0f0dbce447cbbef48ef5b11.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

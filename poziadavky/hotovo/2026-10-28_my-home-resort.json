@@ -1,0 +1,57 @@
+{
+ "id": 6042,
+ "nazov": "My Home Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Alanya",
+  "Avsallar"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/6042a",
+ "poziadavka": "My Home Resort",
+ "priecinok": "6042-my-home-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/14b5d2357d04e3eaadc61eb4d76ea9ae.webp",
+   "rozmer": [
+    1024,
+    740
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/40a35d5605aec1fdadc873db45e54e86.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4350d6a8933b941a24dfa65e82f55259.webp",
+   "rozmer": [
+    1440,
+    1080
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/a0038ed8bb4306dc6480c4cd5a207b79.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/df7c654e225f84b0e41f0ee67c9fcf37.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
