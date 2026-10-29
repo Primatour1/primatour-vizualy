@@ -1,0 +1,56 @@
+{
+ "id": 64888,
+ "nazov": "Stella Di Mare Gardens Resort & SPA",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Makadi"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/64888a",
+ "poziadavka": "Stella Gardens Resort & Spa Makadi Bay",
+ "priecinok": "64888-stella-di-mare-gardens-resort-spa",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/918d517a3696a3191c1260849af7a2c0.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/dc6b164ee0e9a65ce13f334a80c8607f.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/504664ae0e29849078dcbc5f69ae0895.webp",
+   "rozmer": [
+    1600,
+    915
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/9f454311a96a5ecace2837c612167d65.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8114b29d8550f8f63204e9dbfca2d409.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
