@@ -2,3 +2,6 @@
    pokus 2/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort&group=hotel — <urlopen error timed out>
    pokus 3/3 zlyhal: https://www.primatour.sk/data/fulltext/nt?term=Asia+Beach+Resort&group=hotel — <urlopen error timed out>
 2026-10-15_asia-beach-resort-2.txt -> {"chyba": "neočakávaná chyba: <urlopen error timed out>"} | fotiek: 0
+
+2026-10-30 ranný beh (07:24 UTC): newslettre od 29.10. 15:00 – 3 súbory (Stahl upomienka – preskočené; Satur ULM poznávacie NOVEMBER; České kormidlo Aminess FM 2027 bez cien – preskočené).
+Uložené do GHL (in_review, Martina, 2.11. 18:00): Egypt – plavba po Níle (SATUR, BTS 13.11., od 1 299 €), FB 6ae44a7597762514d5ef77e3, IG 6ae44a86777fd9353e7e3d65. Len vizuál – server našiel iný produkt (106977 Luxusná plavba po Níle s Káhirou), fotky nepoužité.
