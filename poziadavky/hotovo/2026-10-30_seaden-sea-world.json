@@ -1,0 +1,57 @@
+{
+ "id": 4413,
+ "nazov": "Seaden Sea World Resort & Spa",
+ "hviezdy": 5,
+ "lokalita": [
+  "Turecko",
+  "Turecká riviéra",
+  "Side",
+  "Kizilagac"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/4413a",
+ "poziadavka": "Seaden Sea World Resort & Spa",
+ "priecinok": "4413-seaden-sea-world-resort-spa",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/650799e9e161837f5062ebfaea6bd90f.webp",
+   "rozmer": [
+    1600,
+    1570
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/200b01dfdf1aa57af128e9e505c92d66.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/f6be2959a78fb1bbb80f29aa1ab4fe24.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3460fc6f4f9d48841a4669f4d71fc7a6.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3ef23d302a1ff77a1458fa236b7231b4.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
