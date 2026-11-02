@@ -1,0 +1,55 @@
+{
+ "id": 11064,
+ "nazov": "Djerba Sun Beach",
+ "hviezdy": 3,
+ "lokalita": [
+  "Tunisko",
+  "Djerba"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/11064a",
+ "poziadavka": "Sun Beach Platamonas",
+ "priecinok": "11064-djerba-sun-beach",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/7f6c7e89905a4ca5671f1fb6572c7ac9.webp",
+   "rozmer": [
+    1600,
+    900
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0df0070c1d2f63650ecfffc9783292b2.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0f4b444398eafa8a5b44160e6c078dc6.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/a5e24a59cb458cfc4c61a71f8806af03.webp",
+   "rozmer": [
+    1024,
+    676
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c1e67093d547d8cc2e384059c30e6b3c.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
