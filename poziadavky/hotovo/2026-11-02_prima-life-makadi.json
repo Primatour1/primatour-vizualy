@@ -1,0 +1,56 @@
+{
+ "id": 1063,
+ "nazov": "Prima Life Makadi Resort & Spa",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Makadi"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/1063a",
+ "poziadavka": "Prima Life Makadi",
+ "priecinok": "1063-prima-life-makadi-resort-spa",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8c4b4fad565d30d567acf2176a93816e.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0ff311c17062462d1b12326cbdd14ac2.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/2e75f7708dee990605d4365e825f1f2c.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d6500b0fe2ac12bffb9c61bba3c5b444.webp",
+   "rozmer": [
+    1600,
+    1056
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/96d7bb8935614dd2b759d3ba6e13388b.webp",
+   "rozmer": [
+    1600,
+    1057
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
