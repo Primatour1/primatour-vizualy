@@ -1,0 +1,56 @@
+{
+ "id": 89663,
+ "nazov": "Lazuli and Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Marsa Alam",
+  "El Quseir"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/89663a",
+ "poziadavka": "Lazuli",
+ "priecinok": "89663-lazuli-and-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/a845964aef3aa4fbe5118e827af191c7.webp",
+   "rozmer": [
+    1600,
+    970
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8ba9d0294f744f61867f8d364b5c21db.webp",
+   "rozmer": [
+    1200,
+    675
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/caf24d46b53913a06558a8d7b09fe462.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c7f94bbc2c0a66b59d447522e0e09c28.webp",
+   "rozmer": [
+    1280,
+    720
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/d2b0c72beafd864c8ecdfff13b2e9726.webp",
+   "rozmer": [
+    1600,
+    578
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
