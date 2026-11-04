@@ -1,0 +1,56 @@
+{
+ "id": 1902,
+ "nazov": "Old Palace Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Sahl Hasheesh"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/1902a",
+ "poziadavka": "Old Palace Resort Sahl Hasheesh",
+ "priecinok": "1902-old-palace-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/82e5879a99fa4faf99c52836c217bece.webp",
+   "rozmer": [
+    1600,
+    922
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ca940fe8b4b367ac93921c49d45a3e57.webp",
+   "rozmer": [
+    1600,
+    899
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/f0451f49f12f4e38a519bd7d09bcc376.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/266b2ea77ed2c295aaf2896ffbf4bc3a.webp",
+   "rozmer": [
+    800,
+    534
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/31c08fa17275a9c8b3cccad5cc3feb23.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
