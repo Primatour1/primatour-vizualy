@@ -1,0 +1,56 @@
+{
+ "id": 82987,
+ "nazov": "Seven Seas Jolie Bay",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Safaga"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/82987a",
+ "poziadavka": "Seven Seas Jolie Bay",
+ "priecinok": "82987-seven-seas-jolie-bay",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ef623f8e4d4b45aa7035ea16819aad25.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/904f3414f9e87f7b721c92d8fd34b466.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0edaae1bde3e1bdfa9b48d5144db19de.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/31a91873030cc05ef5b5e794bdf92ed0.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/03800db5bebc64cf2584cccf033f64e0.webp",
+   "rozmer": [
+    1400,
+    933
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

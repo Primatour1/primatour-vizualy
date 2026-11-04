@@ -1,0 +1,55 @@
+{
+ "id": 30927,
+ "nazov": "Gemma Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Marsa Alam"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/30927a",
+ "poziadavka": "Gemma Resort",
+ "priecinok": "30927-gemma-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/68ef37ecb26190b5d8475da2639a616f.webp",
+   "rozmer": [
+    1600,
+    900
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/32bfefadd5b930dcfd9b5e17474ae38f.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/6f082c812e659bb3fc26f6f36005c5c7.webp",
+   "rozmer": [
+    1600,
+    900
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/10392bcbb43c2e02cdef6b742be92cb5.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/caa84f04f119016e682ac3d62f5aa770.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

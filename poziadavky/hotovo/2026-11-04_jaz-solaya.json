@@ -1,0 +1,55 @@
+{
+ "id": 15306,
+ "nazov": "Jaz Solaya",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Marsa Alam"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/15306a",
+ "poziadavka": "Jaz Solaya",
+ "priecinok": "15306-jaz-solaya",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/e69b2049d244274c8c2e93a09fcd780d.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8b7ad3f20c98ee88ce3bd8064c66d167.webp",
+   "rozmer": [
+    1600,
+    966
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0106905ae6cf36a05b58e0c0d2f6ad95.webp",
+   "rozmer": [
+    1600,
+    1016
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/2372a1d43680866f7e506bb21d7d3df1.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/1e7649432f9a7fb7cdfe17bfc235ed2b.webp",
+   "rozmer": [
+    1000,
+    750
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
