@@ -1,0 +1,97 @@
+{
+ "id": 36317,
+ "nazov": "Rodon House",
+ "hviezdy": 3,
+ "lokalita": [
+  "Grécko",
+  "Grécko ostrovy",
+  "Thassos",
+  "Trypiti"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/36317a",
+ "poziadavka": "Rodon House",
+ "priecinok": "36317-rodon-house",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/951ca42d127fb024ccd020910bca32b3.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/58f55cf05516803700bb47dabbc2af2a.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/3322cb829db42ebbf5603fe37ea57701.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/ce6a856b792b649665fe4f9d429240f3.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/bb699803c41a7069953ca68a4b33a119.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "06.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/965a3d8edd2a33cf4dcf21c7e4c1ae59.webp",
+   "rozmer": [
+    1024,
+    768
+   ]
+  },
+  {
+   "subor": "07.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4830ba1924041fa9220118e5b8d10a99.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "08.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/0b28396b83e229f4c758db2d5840fa48.webp",
+   "rozmer": [
+    511,
+    768
+   ]
+  },
+  {
+   "subor": "09.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/20019a33093f0df5cdc2a3714b734dc4.webp",
+   "rozmer": [
+    1024,
+    636
+   ]
+  },
+  {
+   "subor": "10.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8dbefd3440bb8eee9b0f634ec1b574f3.webp",
+   "rozmer": [
+    1024,
+    682
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
