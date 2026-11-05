@@ -1,0 +1,55 @@
+{
+ "id": 91096,
+ "nazov": "Sentido Oblu Helengeli",
+ "hviezdy": 4,
+ "lokalita": [
+  "Maledivy",
+  "Severný Male Atoll"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/91096a",
+ "poziadavka": "Sentido OBLU Helengeli",
+ "priecinok": "91096-sentido-oblu-helengeli",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/efa9f6171eb7f26d2e42032bdafbf354.webp",
+   "rozmer": [
+    1200,
+    799
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c7c16f99fb69982be02e873494a650e3.webp",
+   "rozmer": [
+    1600,
+    1203
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/62291999cea62766c59dcd19d0d4c056.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/781ee4c4c590c799a8c0170749f8fbd8.webp",
+   "rozmer": [
+    1600,
+    1199
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/9b198e8a5c59ccbafc9da71a862a18f2.webp",
+   "rozmer": [
+    1200,
+    800
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
