@@ -1,0 +1,56 @@
+{
+ "id": 91315,
+ "nazov": "Xanadu Makadi Bay",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Makadi"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/91315a",
+ "poziadavka": "Xanadu Makadi Bay",
+ "priecinok": "91315-xanadu-makadi-bay",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/16b16dba7154b895b6e1f8e13258b3ec.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c5bf43e08008f7df49dfd2286b721335.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/6250c01d84ccad9526132508c9340b8c.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/bfa60112da6e5a35825c7e7ece214397.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8c88987b6c294cd0afbb54a20639a57a.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
