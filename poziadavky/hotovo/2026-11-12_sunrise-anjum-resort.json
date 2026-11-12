@@ -1,0 +1,55 @@
+{
+ "id": 96881,
+ "nazov": "Sunrise Anjum Resort",
+ "hviezdy": 5,
+ "lokalita": [
+  "Egypt",
+  "Marsa Alam"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/96881a",
+ "poziadavka": "Sunrise Anjum Resort",
+ "priecinok": "96881-sunrise-anjum-resort",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/be73aa8f76628d04c0889cc9819cabe3.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/c0c9391d33371748936ab76ad3679878.webp",
+   "rozmer": [
+    1600,
+    1200
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/e70e47647ee65e930c2231dfd0440ea5.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/a87eabf596e59288b4588c8a4990a43b.webp",
+   "rozmer": [
+    1600,
+    1066
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/f4d6c93bc6d7072b871fc978c48d0571.webp",
+   "rozmer": [
+    1600,
+    1067
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}

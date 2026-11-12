@@ -1,0 +1,56 @@
+{
+ "id": 1037,
+ "nazov": "Imperial Shams Abu Soma",
+ "hviezdy": 4,
+ "lokalita": [
+  "Egypt",
+  "Hurghada",
+  "Soma Bay"
+ ],
+ "stranka": "https://www.primatour.sk/dovolenka/x/x/x/1037a",
+ "poziadavka": "Imperial Shams Abu Soma",
+ "priecinok": "1037-imperial-shams-abu-soma",
+ "fotky": [
+  {
+   "subor": "01.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/8cf2f4761475298622ff1600d928921e.webp",
+   "rozmer": [
+    1024,
+    676
+   ]
+  },
+  {
+   "subor": "02.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/093a3d3d77b2de8f69316639b95d51ce.webp",
+   "rozmer": [
+    1024,
+    676
+   ]
+  },
+  {
+   "subor": "03.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/6ac637546633d4d084118c96d0108482.webp",
+   "rozmer": [
+    1024,
+    683
+   ]
+  },
+  {
+   "subor": "04.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/7de9800ab97e58d9e2a188b4313aab75.webp",
+   "rozmer": [
+    1600,
+    1068
+   ]
+  },
+  {
+   "subor": "05.jpg",
+   "zdroj": "https://i.ccdn.sk/acm/4fa9f69d93d93a597138b8fb1fbed880.webp",
+   "rozmer": [
+    1024,
+    676
+   ]
+  }
+ ],
+ "zdroj_fotiek": "cestovné kancelárie cez Cesys / primatour.sk"
+}
