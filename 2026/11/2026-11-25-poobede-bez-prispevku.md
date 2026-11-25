@@ -1,0 +1,8 @@
+# Denný výber – 25. 11. 2026, poobedný beh (15:20) – bez príspevku
+
+- Newslettre od 25. 11. 8:20: 11 (Sun & Fun 2× – Royal Atlantis Icon jún 2027 BTS od 1 209 €, Seaden Sea World júl 2027 BTS od 1 270 €; ETI Slovensko – ULM Egypt z Budapešti 27. 11. – 5. 12. od 429 €; FISCHER – TOP prehľad bez názvov hotelov (Egypt BTS 4. 12. od 437 €, Dominikána, Vietnam, Maledivy VIE); FISCHER/NEV-DAMA – Val di Fiemme ski opening CZ; České kormidlo 2× – skipasy a adventné zájazdy v CZK; Globtour – Bulharsko ultra first minute len v obrázkoch; DERTOUR SK – záznam prezentácie Leto 2027 (technické); Čedok – agentská zóna (technické); Stahl Reisen – upomienka faktúry (nie newsletter))
+- Overenie Royal Atlantis Icon***** Side (otvorený máj 2025, pláž 380 m so shuttlom, aquapark): TripAdvisor 4,1/5 z 498; DERTOUR 81 % z 328; Check24 7,3/10, odporúča 59 % zo 138; nix-wie-weg 54 % z 28; ranný beh HolidayCheck 4,7/6. Opakované výhrady: hluk z večerného programu, pomalší servis, uteráky, čistota. → S VÝHRADOU na hranici, pri cene 1 209 € nedávame.
+- Overenie Seaden Sea World Resort & Spa***** Side: TripAdvisor 3,7/5 z 872; nix-wie-weg 80 % z 1 015; už bol v príspevku v októbri → nedávame.
+- ETI Egypt z Budapešti: Ghazala Gardens**** Sharm (470 €, 5. 12.) – TripAdvisor 4,2/5 z 2 550, ale Check24 6,4/10 a 49 % zo 107 (prebookované, izby na renováciu); The Grand Resort / Grand Waterworld Makadi – odlety 27. a 29. 11., pred zverejnením; Sharm Resort – neoverené. Odlet z Budapešti, nie BTS/KSC → nedávame.
+- GHL: nič neuložené. Obsadené termíny: st 25. 11. 18:00 TUI Blue Xanthe, št 26. 11. 18:00 Hydramis Palace, pi 27. 11. 18:00 Villa Side Residence, so 28. 11. 10:00 karusel. Najbližší voľný: po 30. 11. 18:00.
+- Kandidáti na karusel: žiadni silní z dnešných newsletterov.
